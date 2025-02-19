@@ -4,7 +4,7 @@ class Divison {    //nombre de la clase
     Divison() {    //nombre de la funcion
     }
     public int getNum1() {    //nombre de la funcion
-        return num1;     //nombre de la funcion
+        return this.num1;     //nombre de la funcion
     }
     public void setNum1(int num1) {     //nombre de la funcion
         this.num1 = num1;                //nombre de la funcion
